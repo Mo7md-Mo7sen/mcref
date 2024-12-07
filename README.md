@@ -1,10 +1,10 @@
 # mcref
 ---------
-├── Overview of C Programming
-│   ├── Developed by Dennis Ritchie in 1972 at Bell Labs
-│   ├── A general-purpose, procedural, and structured language
-│   ├── Known for its efficiency and closeness to hardware
-│   ├── Commonly used for system programming, embedded systems, and applications
+├── Overview of C Programming  
+│   ├── Developed by Dennis Ritchie in 1972 at Bell Labs  
+│   ├── A general-purpose, procedural, and structured language  
+│   ├── Known for its efficiency and closeness to hardware   
+│   ├── Commonly used for system programming, embedded systems, and applications<br>
 │
 ├── Key Features of C
 │   ├── Low-level access to memory
